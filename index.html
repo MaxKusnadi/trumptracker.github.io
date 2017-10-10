@@ -116,14 +116,14 @@ layout: page
                         <!-- <th>Tags</th> -->
                         <th>Promise</th>
                         <!-- <th>Sources</th> -->
-                        <th>Actions</th>
+                        <!--<th>Actions</th>-->
                     </tr>
                     </thead>
 
                     <tbody class="list">
                     <!-- add color to each policy -->
                     {% for promise in promises %}
-                    <tr class="promise {% if promise.status == 'In progress' %}warning{% endif %}{% if promise.status == 'Achieved' %}success{% endif %}{% if promise.status == 'Broken' %}danger{% endif %}{% if promise.status == 'Compromised' %}compromised{% endif %}">
+                    <tr class="promise {% if promise.status == 'In progress' %}warning{% endif %}{% if promise.status == 'Not started' %}info{% endif %}{% if promise.status == 'Achieved' %}success{% endif %}{% if promise.status == 'Broken' %}danger{% endif %}{% if promise.status == 'Compromised' %}compromised{% endif %}">
                         <td class="promise__id">{{ forloop.index }}.</td>
 
                         <!--
@@ -153,11 +153,11 @@ layout: page
                         </td>
                         <!-- <td class="promise__sources" style="white-space: nowrap;">
                         </td> -->
-                        <td class="promise__actions">
-                            <!-- comment and twitter integration -->
-                            <a href="{{ site.url }}{{ promise.url | replace: 'https://trumptracker.github.io', '' }}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+                        <!--<td class="promise__actions">-->
+                            <!--&lt;!&ndash; comment and twitter integration &ndash;&gt;-->
+                            <!--<a href="{{ site.url }}{{ promise.url | replace: 'https://trumptracker.github.io', '' }}"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>-->
 
-                        </td>
+                        <!--</td>-->
                     </tr>
                     {% endfor %}
                     </tbody>
