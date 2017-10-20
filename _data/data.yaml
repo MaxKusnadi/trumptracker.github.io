@@ -1,20 +1,29 @@
 # Status has five options: Not started, In progress, Achieved, Broken, and Compromised
 
 icons:
-    First 100 Days: clock-o
+    Janji 100 Hari Pertama: clock-o
     Culture: music
-    Economy: dollar
-    Environment: leaf
-    Government: university
+    Ekonomi: dollar
+    Pembangunan Kepulauan Seribu: dollar
+    Perumahan: dollar
+    Pariwisata: dollar
+    Sejarah Dan Budaya: leaf
+    Penanggulangan Banjir: leaf
+    Air Bersih: leaf
+    Tata Ruang: university
+    Pemerintahan: university
     Immigration: suitcase
-    Indigenous: users
+    Pemuda dan Olahraga: users
+    Pemuda dan olahraga: users
     Security: fighter-jet
-    Health: heart
-    World: globe
-    Education: graduation-cap
+    Perempuan dan Anak: heart
+    Perlindungan Perempuan dan Anak: heart
+    Kesehatan: heart
+    Transportasi dan Kemacetan: globe
+    Pendidikan: graduation-cap
 
 statuses:
-    Not started:
+    Not Started:
         color: info
         icon: hourglass-start
     In progress:
@@ -32,794 +41,2083 @@ statuses:
 
 promises:
     -
-        title: 'Sandiaga Ingin Lestarikan Budaya Betawi dengan Memasukkan Bahasa Asing'
-        description: 'Sandiaga Ingin Lestarikan Budaya Betawi dengan Memasukkan Bahasa Asing'
+        title: 'Silaturahmi dengan seluruh mantan Gubernur dan Wakil Gubernur'
+        description: 'Pada 100 hari pertama bersilaturahim dengan seluruh mantan Gubernur dan Wakil Gubernur, tokoh-tokoh yang mewakili semua golongan, dan pimpinan partai politik.'
         url: ''
-        status: Not started
-        category: Culture
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Membentuk forum Gubernur dan Wakil Gubernur'
+        description: 'Pada 100 Hari Pertama Membentuk Forum Gubernur dan Wakil Gubernur DKI Jakarta sebagai wadah komunikasi yang berkelanjutan.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pada 100 Hari Pertama Mengefektifkan Forum Kerukunan Umat Beragama'
+        description: 'Pada 100 Hari Pertama Mengefektifkan Forum Kerukunan Umat Beragama'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Menjadikan balai kota rumah rembug warga'
+        description: 'Pada 100 Hari Pertama menjadikan balaikota sebagai rumah rembug warga dan mengadakan kegiatan Gubernur/Wakil Gubernur Mendengar'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pertemuan kota sejak minggu pertama menjabat'
+        description: 'Pada 100 Hari Pertama melaksanakan pertemuan kota (townhall meeting) sejak minggu pertama menjabat'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Mengunjungi kampung akuarium, kel penjaringan, jakarta utara'
+        description: 'Pada 100 hari pertama, pertemuan pertama (townhall meeting) akan mengunjungi Kampung Akuarium, Kel.Penjaringan, Jakarta Utara'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pada 100 Hari pertama akan meresmikan 44 pusat kewirausahaan'
+        description: 'Pada 100 Hari pertama akan meresmikan 44 pusat kewirausahaan'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pada 100 hari pertama Meluncurkan Kartu Jakarta Pintar Plus (KJP Plus).'
+        description: 'Pada 100 hari pertama Meluncurkan Kartu Jakarta Pintar Plus (KJP Plus).'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pada 100 hari pertama Mendistribusikan KJP Plus untuk anak putus sekolah.'
+        description: 'Pada 100 hari pertama Mendistribusikan KJP Plus untuk anak putus sekolah.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pada 100 Hari Pertama Meluncurkan Kartu Pangan Jakarta.'
+        description: 'Pada 100 Hari Pertama Meluncurkan Kartu Pangan Jakarta.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Meluncurkan program hunian DP nol'
+        description: 'Pada 100 Hari Pertama Meluncurkan program hunian DP Nol dengan membentuk institusi/unit khusus yang mengelola isu perumahan/hunian di DKI Jakarta.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari ; http://jakartamajubersama.com/program-hunian-terjangkau-dan-dp-nol-rupiah'
+    -
+        title: 'Program OK Trip'
+        description: 'Pada 100 hari pertama Meluncurkan program OK Otrip ( Menyambungkan seluruh angkutan umum bertrayek dengan tiket terusan. Misalnya sekali jalan masyarakat hanya bayar Rp. 5000, sudah bisa naik transjakarta, kopaja, metromini, dan angkutan umum)'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari ; http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Pada 100 Hari Pertama Meluncurkan program OK O-Care.'
+        description: 'Pada 100 Hari Pertama Meluncurkan program OK O-Care.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari ; https://www.youtube.com/watch?v=DmMNPStSeNw (34:00)'
+    -
+        title: 'mempersiapkan rancangan revisi Perda APBD Perubahan'
+        description: 'Pada 100 Hari Pertama mempersiapkan rancangan revisi Perda APBD Perubahan untuk memasukan program-program prioritas'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'Pada 100 Hari Pertama mempersiapkan rancangan RPJMD 2017-2022'
+        description: 'Pada 100 Hari Pertama mempersiapkan rancangan RPJMD 2017-2022'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'memulai sinergi birokrasi dengan elemen civil society'
+        description: 'Pada 100 hari pertama memulai sinergi birokrasi dengan elemen civil society untuk membangun paradigma "pembangunan berbasis gerakan"'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'mengimplementasikan open government dengan pengelolaan sumber pembiayaan anggaran secara transparan dan akuntabel'
+        description: 'Pada 100 Hari Pertama memulai mengimplementasikan open government dengan pengelolaan sumber pembiayaan anggaran secara transparan dan akuntabel, dimulai dengan menghindari manajemen keuangan non-bujeter.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'menerbitkan peraturan untuk mengkonsolidasikan transportasi konvensional dengan transportasi online'
+        description: 'Pada 100 Hari Pertama akan menerbitkan peraturan untuk mengkonsolidasikan transportasi konvensional dengan transportasi online.'
+        url: ''
+        status: Not Started
+        category: Janji 100 Hari Pertama
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-100-hari'
+    -
+        title: 'program OK OCE (One Kecamatan, One Centre for Entrepreneurship)'
+        description: 'Mengadakan program OK OCE (One Kecamatan, One Centre for Entrepreneurship), untuk menghasilkan 200.000 pengusaha baru, selama lima tahun.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/membuka-akses-lapangan-kerja-dan-membangun-kewirausahaan'
+    -
+        title: 'Menambah pusat jajanan berbasis PKL'
+        description: 'Menambah pusat jajanan berbasis PKL'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - ''
+    -
+        title: 'menyelenggarakan festival kuliner untuk meramaikan pusat kuliner Jakarta'
+        description: 'menyelenggarakan festival kuliner untuk meramaikan pusat kuliner Jakarta'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menambah-pusat-kuliner-jakarta'
+    -
+        title: 'Mempermudah Izin penyelenggaraan Konferensi'
+        description: 'Mempermudah Izin penyelenggaraan Konferensi'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mengembangkan-wisata-konvensi-jakarta'
+    -
+        title: 'subsidi kepada penyelenggara yang berhasil melaksanakan konferensi di level internasional'
+        description: 'Memberikan subsidi kepada penyelenggara yang berhasil melaksanakan konferensi di level internasional yang disertai beberapa persyaratan (50% peserta merupakan delegasi Internasional, Penyelenggara menyediakan city tour ke tempat-tempat bersejarah dan tempat budaya Jakarta,Menampilkan pertunjukan kebudayaan Indonesia dalam daftar acara konferensi)'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mengembangkan-wisata-konvensi-jakarta'
+    -
+        title: 'Mempermudah izin pembangunan gedung-gedung pertemuan berkapasitas besar dan standard internasional'
+        description: 'Mempermudah izin pembangunan gedung-gedung pertemuan berkapasitas besar dan standard internasional yang dapat digunakan untuk konferensi di Jakarta.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mengembangkan-wisata-konvensi-jakarta'
+    -
+        title: 'Ruang Bersama Jakarta akan dibangun di setiap kelurahan'
+        description: 'Ruang Bersama Jakarta akan dibangun di setiap kelurahan dan menjadi ruang pusat interaksi warga sekitar.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-community-centre-ruang-bersama-jakarta'
+    -
+        title: 'Co-working Space, sebagai bagian dari entrepreneurship center'
+        description: 'Co-working Space, sebagai bagian dari entrepreneurship center dengan membangun satu wahana kerja bersama yang memiliki fasilitas pusat belajar masyarakat, bengkel, galeri dan ruang kerja bersama yang dilengkapi fasilitas ruang rapat, serta fasilitas perkantoran yang mendukung di setiap kecamatan'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-community-centre-ruang-bersama-jakarta'
+    -
+        title: 'Menyediakan mentoring bagi calon wirausaha-wirausaha'
+        description: 'Menyediakan mentoring bagi calon wirausaha-wirausaha yang akan memulai bisnis pertamanya.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-community-centre-ruang-bersama-jakarta'
+    -
+        title: 'Wahana Kerja Bersama Jakarta'
+        description: 'Wahana Kerja Bersama Jakarta juga menyediakan fasilitas konseling karier bagi pencari kerja.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-community-centre-ruang-bersama-jakarta'
+    -
+        title: 'Pelatihan Pertanian Kota (urban farming)'
+        description: 'Pelatihan Pertanian Kota (urban farming) Lahan kosong di Jakarta dijadikan lahan bersama untuk urban farming. Ini membantu suplai makanan kepada masyarakat dengan murah, sehat, dekat, melestarikan wilayah hijau Jakarta, mengurangi polusi, dan bernilai ekonomi bagi pelakunya.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mempermudah-warga-mendapatkan-bahan-kebutuhan-pokok-berkualitas-dengan-murah'
+    -
+        title: 'Mitra Sembako Ibukota'
+        description: 'Mitra Sembako Ibukota, Memberikan pinjaman modal dan memberikan subsidi pada produsen'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mempermudah-warga-mendapatkan-bahan-kebutuhan-pokok-berkualitas-dengan-murah'
+    -
+        title: 'Membangun Lumbung Kota'
+        description: 'Membangun Lumbung Kota tempat-tempat penyimpanan bahan pangan berteknologi tinggi di tempat-tempat yang dekat dengan masyarakat, sehingga bahan makanan dapat terjaga kualitasnya lebih lama.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mempermudah-warga-mendapatkan-bahan-kebutuhan-pokok-berkualitas-dengan-murah'
+    -
+        title: 'Mendirikan 267 Rumah Aman '
+        description: 'Mendirikan 267 Rumah Aman yang dilengkapi dengan Unit Reaksi Cepat dan terhubung dengan aplikasi untuk mempermudah koordinasi dan pengaduan. Rumah Aman adalah rumah sementara bagi perempuan korban KDRT. Rumah ini untuk memastikan korban terlindungi selama masa pelaporan hingga kasus diselesaikan. Rumah Aman juga mempersiapkan korban untuk kembali ke masyarakat.'
+        url: ''
+        status: Not Started
+        category: Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perlindungan-perempuan-dan-anak'
+    -
+        title: 'Memberi subsidi bantuan hukum'
+        description: 'Memberi subsidi bantuan hukum terhadap kasus kekerasan di rumah tangga maupun komunitas.'
+        url: ''
+        status: Not Started
+        category: Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perlindungan-perempuan-dan-anak'
+    -
+        title: 'Pemberian nomor unik bagi setiap transportasi massal'
+        description: 'Pemberian nomor unik bagi setiap transportasi massal untuk mempermudah pengawasan dan identifikasi tindak kekerasan.'
+        url: ''
+        status: Not Started
+        category: Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perlindungan-perempuan-dan-anak'
+    -
+        title: 'Mewajibkan kendaraan umum memasang poster pengaduan tindakan kekerasan.'
+        description: 'Mewajibkan setiap kendaraan umum memasang poster/stiker nomor telepon/website pengaduan tindakan kekerasan.'
+        url: ''
+        status: Not Started
+        category: Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perlindungan-perempuan-dan-anak'
+    -
+        title: 'Mendorong adanya fasilitas antar jemput malam untuk pekerja perempuan'
+        description: 'Mendorong adanya fasilitas antar jemput malam untuk pekerja perempuan di seluruh instansi pemerintah dan swasta DKI Jakarta.'
+        url: ''
+        status: Not Started
+        category: Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perlindungan-perempuan-dan-anak'
+    -
+        title: 'Penguatan peraturan'
+        description: 'Penguatan peraturan (misal Perda atau Pergub), di antaranya untuk mengawasi Perusahaan Pengerah Tenaga Kerja Indonesia Swasta (PPTKIS) yang ada di Jakarta.'
+        url: ''
+        status: Not Started
+        category: Perlindungan Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perlindungan-perempuan-dan-anak'
+    -
+        title: 'Pemberian Kredit Usaha Perempuan Mandiri.'
+        description: 'Pemberian Kredit Usaha Perempuan Mandiri.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-perempuan'
+    -
+        title: 'Menjadikan Pondok pesantren dan majelis taklim menjadi pusat kegiatan OK-OCE.'
+        description: 'Menjadikan Pondok pesantren dan majelis taklim menjadi pusat kegiatan OK-OCE.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pengembangan-wirausaha-muslim'
+    -
+        title: 'Membentuk Desk Kepulauan Serib'
+        description: 'Membentuk Desk Kepulauan Seribu yang bertujuan untuk memperkecil gap pembangunan (pendidikan, kesehatan dan ekonomi) Kepulauan Seribu dengan kota lainnya di DKI Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'memperbanyak jumlah tempat tidur di rumah sakit pemerintah'
+        description: 'Dalam waktu 1 tahun di Kelupalauan Seribu, memperbanyak jumlah tempat tidur di rumah sakit pemerintah dari 17 tempat tidur menjadi 150 tempat tidur'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'meningkatkan jumlah dokter gigi dan apoteker'
+        description: 'meningkatkan jumlah dokter gigi dan apoteker'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Menyediakan 10 unit ambulan apung'
+        description: 'Menyediakan 10 unit ambulan apung'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Menjadikan Kepulauan Seribu sebagai pusat inovasi konservasi ekologi'
+        description: 'Menjadikan Kepulauan Seribu sebagai pusat inovasi konservasi ekologi'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Mengembangkan resort apung'
+        description: 'Mengembangkan resort apung yang ramah lingkungan untuk mengantisipasi terbatasnya lahan'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Menambah kapal reguler penumpang'
+        description: 'Menambah kapal reguler penumpang dari 9 buah menjadi 30 buah dengan rute yang terjadwal dan sering.'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Mengintegrasikan sistem pembayaran transportasi laut'
+        description: 'Mengintegrasikan sistem pembayaran transportasi laut tersebut dengan sistem pembayaran TransJakarta.'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Memastikan semua anak sekolah berusia 6-21 mendapatkan kartu KJP Plus '
+        description: 'Memastikan semua anak sekolah berusia 6-21 mendapatkan kartu KJP Plus utk meningkatkan partisipasi sekolah'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Mendirikan pusat-pusat belajar masyarakat '
+        description: 'Mendirikan pusat-pusat belajar masyarakat untuk meningkatkan partisipasi masyarakat dalam pendidikan melalui program Kerjar Paket C dan program kursus keterampilan.'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Mendirikan SMK Pariwisata dan merevitalisasi SMK Kelautan unggulan'
+        description: 'Mendirikan SMK Pariwisata dan merevitalisasi SMK Kelautan unggulan untuk menyiapkan tenaga kerja terampil melalui peningkatan jumlah guru produktif, pengembangan teaching factory dan penerapan dual-system SMK dengan industri'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Memberikan pendampingan peningkatan kualitas guru'
+        description: 'Memberikan pendampingan peningkatan kualitas guru melalui program guru mentor serta peningkatan frekuensi pelatihan guru'
+        url: ''
+        status: Not Started
+        category: Pembangunan Kepulauan Seribu
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kepulauan-seribu-sebagai-kepulauan-pembangunan-mandiri'
+    -
+        title: 'Menyediakan sekolah pengemudi angkutan umum '
+        description: 'Menyediakan sekolah pengemudi angkutan umum agar dapat memberikan pelayanan terbaik kepada masyarakat.'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Menata kawasan di sekitar stasiu'
+        description: 'Menata kawasan di sekitar stasiun. Memperbaiki fasilitas pejalan kaki, pesepeda dan angkutan pengumpan di sekitar stasiun.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'pembinaan pengemudi angkot dan ojek '
+        description: 'Melakukan pembinaan pengemudi angkot dan ojek untuk meningkatkan aspek keselamatan'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Penyediaan fasilitas park and ride yang terjangkau'
+        description: 'Penyediaan fasilitas park and ride yang terjangkau, tertata, dan tersebar luas sepanjang jalur KRL, MRT dan Transjakarta.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Menerapkan jalan berbayar berbasis elektronik (electronic road pricing)'
+        description: 'Menerapkan jalan berbayar berbasis elektronik (electronic road pricing)'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Membentuk badan pengawas independen untuk mengawasi pemanfaatan dana ERP'
+        description: 'Membentuk badan pengawas independen untuk mengawasi pemanfaatan dana ERP'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Mempercepat pembangunan MRT dan LRT'
+        description: 'Mempercepat pembangunan MRT dan LRT, menata bangunan di sepanjang jalurnya dengan sistem Transit Oriented Development (TOD). TOD adalah memaksimalkan angkutan massal yang dilengkapi fasilitas pejalan kaki / sepeda.'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Meningkatkan tata kelola terminal dan simpul transportasi'
+        description: 'Meningkatkan tata kelola terminal dan simpul transportasi lain agar memberikan rasa aman dan nyaman masyarakat dalam melakukan perjalanan.'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Menyediakan fasilitas pejalan kaki yang ramah iklim tropis '
+        description: 'Menyediakan fasilitas pejalan kaki yang ramah iklim tropis serta terintegrasi dengan stasiun KRL & halte Transjakarta.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Mendata, menata, dan mengatur angkutan berbasis online'
+        description: 'Mendata, menata, dan mengatur angkutan berbasis online, sehingga bersinergi dengan pemerintah mengatasi kemacetan Jakarta.'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Mempercepat proses pembangunan tol lingkar luar'
+        description: 'Mempercepat proses pembangunan tol lingkar luar'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Tidak akan membangun 6 ruas tol dalam kota yang menambah kemacetan Jakarta.'
+        description: 'Tidak akan membangun 6 ruas tol dalam kota yang menambah kemacetan Jakarta.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Menyiapkan masterplan transportasi yang lebih manusiawi'
+        description: 'Menyiapkan masterplan transportasi yang lebih manusiawi dan adil untuk warga Jakarta.'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Menghentikan reklamasi Teluk Jakarta '
+        description: 'Menghentikan reklamasi Teluk Jakarta untuk kepentingan pemeliharaan lingkungan hidup serta perlindungan terhadap nelayan, masyarakat pesisir dan segenap warga Jakarta.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghentikan-reklamasi ; https://www.youtube.com/watch?v=DmMNPStSeNw  (01:06:00) ; http://megapolitan.kompas.com/read/2017/06/21/11051311/bisakah.anies-sandi.membatalkan.reklamasi.'
+    -
+        title: 'Petugas PPSU mendapatkan KJP Plus untuk yang ingin melanjutkan pendidikan'
+        description: 'Petugas PPSU mendapatkan KJP Plus untuk yang ingin melanjutkan pendidikan'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/petugas-prasarana-dan-sarana-umum'
+    -
+        title: 'Petugas PPSU yang kinerjanya baik, akan diberi akses untuk kerja di BUMD '
+        description: 'Petugas PPSU yang kinerjanya baik, akan diberi akses untuk kerja di BUMD atau perusahaan yang bekerjasama dengan pemerintah.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/petugas-prasarana-dan-sarana-umum'
+    -
+        title: 'Petugas PPSU Diutamakan untuk ikut program rumah DP 0 Rupiah.'
+        description: 'Petugas PPSU Diutamakan untuk ikut program rumah DP 0 Rupiah.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/petugas-prasarana-dan-sarana-umum'
+    -
+        title: 'Pembentukan Konsorsium'
+        description: 'Pembentukan Konsorsium tidak hanya untuk Kota Tua, tapi juga tempat lainnya dengan memberikan porsi kepada BUMD dan Swasta.'
+        url: ''
+        status: Not Started
+        category: Sejarah Dan Budaya
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-kembali-titik-titik-sejarah-di-jakarta'
+    -
+        title: 'Mempermudah akses transportasi '
+        description: 'Mempermudah akses transportasi kepada lokasi-lokasi tersebut dengan menyediakan City Tour Bus yang saat ini baru berputar di sekitar Monas.'
+        url: ''
+        status: Not Started
+        category: Sejarah Dan Budaya
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-kembali-titik-titik-sejarah-di-jakarta'
+    -
+        title: 'Mendorong munculnya pelaku usaha yang berbasis pada wisata sejarah'
+        description: 'Mendorong munculnya pelaku usaha yang berbasis pada wisata sejarah di Jakarta dengan permudah izin dan paket-paket subsidi.'
+        url: ''
+        status: Not Started
+        category: Sejarah Dan Budaya
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-kembali-titik-titik-sejarah-di-jakarta'
+    -
+        title: 'memperbaiki kawasan bersejarah kota Jakarta'
+        description: 'Mengajak publik untuk terlibat dalam ikut berpartisipasi memperbaiki kawasan bersejarah kota Jakarta dengan menjadi donatur atau mendaftar di keanggotaan khusus'
+        url: ''
+        status: Not Started
+        category: Sejarah Dan Budaya
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-kembali-titik-titik-sejarah-di-jakarta'
+    -
+        title: ' menghijaukan kembali hutan dan membuat wilayah tangkapan air'
+        description: 'Bekerja sama dengan Jawa Barat untuk menghijaukan kembali hutan dan membuat wilayah tangkapan air, seperti danau.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Program Biopori dan Sumur Resapan Kolektif'
+        description: 'Program Biopori dan Sumur Resapan Kolektif.Semaksimal mungkin, air yang jatuh di tiap lahan harus masukkan ke dalam tanah, bukan dialirkan ke saluran. Gedung-gedung komersil menjadi sasaran utama, kemudian diikuti oleh kawasan pemukiman penduduk. Selain itu, tiap RT/RW memiliki sumur-sumur resapan sendiri.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Membangun tanggul pantai dan tanggul sungai '
+        description: 'Membangun tanggul pantai dan tanggul sungai untuk wilayah Jakarta yang penurunan permukaan tanahnya ekstrim.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Penanaman kembali hutan mangrove dan pengerukan sungai '
+        description: 'Penanaman kembali hutan mangrove dan pengerukan sungai (dredging) secara rutin (minimal 2 tahun sekali).'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Program pengolahan air limbah'
+        description: 'Program pengolahan air limbah.Air limbah dari kegiatan manusia dan industri harus diolah, sehingga menjadi cukup bersih dan layak diserap tanah atau digunakan kembali.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'audit berkala pada gedung bertingkat dan kawasan komersil'
+        description: 'Melakukan audit berkala pada gedung bertingkat dan kawasan komersilyang menggunakan sumur dalam dan belum memiliki reservoir (tempat cadangan) untuk air.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Mendorong agar 75% air hujan meresap, untuk bangunan di atas tanah 5000m2.'
+        description: 'Mendorong agar 75% air hujan meresap, untuk bangunan di atas tanah 5000m2.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Mengurangi pembangunan di beberapa titik wilayah Jakarta'
+        description: 'Mengurangi pembangunan di beberapa titik wilayah Jakarta yang mengalami penurunan tanah secara ekstrim.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Membuat pompa-pompa air berskala besar '
+        description: 'Membuat pompa-pompa air berskala besar untuk memompa air ke dalam tanah dan melanjutkan proses normalisasi sungai dengan melibatkan warga.'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Penyediaan rumah baru dan kesempatan kerja bagi penghuni bantaran sungai '
+        description: 'Penyediaan rumah baru dan kesempatan kerja bagi penghuni bantaran sungai yang dipindah (normalisasi)'
+        url: ''
+        status: Not Started
+        category: Penanggulangan Banjir
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penanganan-banjir-jakarta'
+    -
+        title: 'Bank DKI akan diminta mengganti syarat pembayaran DP'
+        description: 'Bank DKI akan diminta mengganti syarat pembayaran DP yang saat ini sebesar 30 persen dari harga rumah, dengan jumlah sebesar di tabungan calon konsumen'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/anies-ingin-hapus-sistem-dp-untuk-kredit-rumah'
+    -
+        title: 'Membuat sebuah aplikasi yang akan memberitahukan kegiatan  di museum '
+        description: 'Membuat sebuah aplikasi yang akan memberitahukan kegiatan-kegiatan yang ada di museum-museum sebagai alternatif hiburan bagi masyarakat Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-museum'
+    -
+        title: 'Membuka akses museum untuk kegiatan umum'
+        description: 'Membuka akses museum untuk kegiatan umum. Mempermudah izin penggunaan museum untuk kegiatan-kegiatan edukatif seperti bedah buku, bedah film, lomba untuk anak-anak.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-museum'
+    -
+        title: 'Membuka kesempatan kerjasama kepada swasta untuk membuat restoran di sekitar museum'
+        description: 'Membuka kesempatan kerjasama kepada swasta untuk membuat restoran atau sejenisnya di sekitar museum agar museum menjadi tempat yang menarik bagi masyarakat.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-museum'
+    -
+        title: 'Membuat infrastruktur di museum ramah bagi penyandang disabilitas.'
+        description: 'Membuat infrastruktur di museum ramah bagi penyandang disabilitas.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-museum'
+    -
+        title: 'Menyediakan bus-bus gratis dari tempat-tempat strategis'
+        description: 'Menyediakan bus-bus gratis dari tempat-tempat strategis di pusat pemukiman penduduk Jakarta untuk menuju museum-museum.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-museum'
+    -
+        title: 'Meninjau ulang jumlah maksimal mini market '
+        description: 'Meninjau ulang jumlah maksimal mini market dalam setiap kecamatan yang disesuaikan dengan jumlah penduduk dan luas wilayah.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-revitalisasi-pasar-tradisional-dan-menata-pedagang-kaki-lima'
+    -
+        title: 'Meninjau ulang jarak minimal pasar modern dengan pasar tradisional'
+        description: 'Meninjau ulang jarak minimal pasar modern dengan pasar tradisional agar tidak mematikan pasar tradisional.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-revitalisasi-pasar-tradisional-dan-menata-pedagang-kaki-lima'
+    -
+        title: 'Memperbaiki manajemen pengelolaan pasar agar lebih profesional.'
+        description: 'Memperbaiki manajemen pengelolaan pasar agar lebih profesional.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-revitalisasi-pasar-tradisional-dan-menata-pedagang-kaki-lima'
+    -
+        title: 'Penyediaan sarana Tempat Penitipan Anak (daycare) bersubsid'
+        description: 'Penyediaan sarana Tempat Penitipan Anak (daycare) bersubsidi, dan ruang laktasi di pasar tradisional'
+        url: ''
+        status: Not Started
+        category: Perempuan dan Anak
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-revitalisasi-pasar-tradisional-dan-menata-pedagang-kaki-lima'
+    -
+        title: 'pusat perbelanjaan menyediakan lokasi yang layak dan lebih strategis bagi PKL '
+        description: 'Pemberian insentif agar pusat perbelanjaan menyediakan lokasi yang layak dan lebih strategis bagi PKL dan UKM di ruangannya.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-revitalisasi-pasar-tradisional-dan-menata-pedagang-kaki-lima'
+    -
+        title: 'Pipanisasi berjalan'
+        description: 'Pipanisasi berjalan dengan peningkatan jumlah pelanggan sebesar 200% dari jumlah pelanggan tahun 2015 (kini baru 8,1%)'
+        url: ''
+        status: Not Started
+        category: Air Bersih
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-pelayanan-air-bersih-warga'
+    -
+        title: 'Memperluas kriteria penerima pemasangan pipa PAM gratis untuk warga'
+        description: 'Memperluas kriteria penerima pemasangan pipa PAM gratis untuk warga, yaitu warga dengan luas rumah 150 m2 ke bawah.'
+        url: ''
+        status: Not Started
+        category: Air Bersih
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-pelayanan-air-bersih-warga'
+    -
+        title: 'Memberikan 80% subsidi pembayaran langganan air '
+        description: 'Memberikan 80% subsidi pembayaran langganan air pada warga yang luas rumah di bawah 70 m2 dan yang tinggal di rusun milik pemerintah (bukan apartemen mewah).'
+        url: ''
+        status: Not Started
+        category: Air Bersih
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-pelayanan-air-bersih-warga'
+    -
+        title: 'Meningkatkan kapasitas produksi pengolahan air baku dan air bersih'
+        description: 'Meningkatkan kapasitas produksi pengolahan air baku dan air bersih, selain produksi air dari luar wilayah DKI Jakarta dengan target penambahan produksi air sebesar 30% dari data produksi tahun 2015 (kini hanya 5%).'
+        url: ''
+        status: Not Started
+        category: Air Bersih
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-pelayanan-air-bersih-warga'
+    -
+        title: 'Memulai kembali program MH Thamrin Plus'
+        description: 'Memulai kembali program MH Thamrin Plus yang mengintegrasikan perbaikan infrastruktur dasar (saluran, infrastruktur air bersih, pengolahan sampah, dan sebagainya), dengan pemberdayaan sosial ekonomi warga kampung.'
+        url: ''
+        status: Not Started
+        category: Air Bersih
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-pelayanan-air-bersih-warga'
+    -
+        title: 'Memulai kembali program MH Thamrin Plus'
+        description: 'Memulai kembali program MH Thamrin Plus yang mengintegrasikan perbaikan infrastruktur dasar (saluran, infrastruktur air bersih, pengolahan sampah, dan sebagainya), dengan pemberdayaan sosial ekonomi warga kampung.'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'Merealisasikan kampung deret'
+        description: 'Merealisasikan kampung deret dengan melibatkan warga sejak perencanaan hingga pengelolaan'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'Bantuan perbaikan dan peningkatan kualitas rumah sewa'
+        description: 'Bantuan perbaikan dan peningkatan kualitas rumah sewa, terutama yang berada di kawasan kumuh.'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'Kemudahan pajak bagi rumah-rumah yang berada di sekitar kawasan perkantoran'
+        description: 'Kemudahan pajak bagi rumah-rumah yang berada di sekitar kawasan perkantoran dalam mengalihfungsikan rumah/bangunannya menjadi rumah sewa.'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'Membuat sistem informasi rumah sewa berbasis aplikasi '
+        description: 'Membuat sistem informasi rumah sewa berbasis aplikasi untuk memberi kemudahan informasi ketersediaan dan harga rumah sewa serta mengawasi pengelolaannya.'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'deregulasi dalam investasi rusun di ibukota'
+        description: 'Perlu adanya deregulasi dalam investasi rusun di ibukota, untuk mempermudah minat investasi rusun.'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'Mengadakan Bank Tanah'
+        description: 'Mengadakan Bank Tanah.Bank Tanah adalah sebuah program di mana pemerintah, melalui BUMD, mengendalikan harga tanah melalui kegiatan jual beli tanah dengan pendataan administrasi yang akuntabel untuk kemudian dimanfaatkan bagi tujuan pembangunan (termasuk untuk pembangunan hunian).'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perumahan-murah'
+    -
+        title: 'Memastikan kekayaan (birokrat) dapat diakses publik'
+        description: 'Memastikan aset dan kekayaan (birokrat) dapat diakses publik sehingga dapat ditelusuri.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Pembentukan panel seleksi terbuka '
+        description: 'Pembentukan panel seleksi terbuka maupun pengembangan alat-alat asesmen yang kredibel dalam proses seleksi pegawai'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Melaksanakan Inventarisasi Lima Tahunan '
+        description: 'Melaksanakan Inventarisasi Lima Tahunan (sensus) Barang Milik Daerah pada tahun 2018 secara lebih baik'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Meningkatkan Realisasi Rencana Program '
+        description: 'Meningkatkan Realisasi Rencana Program (daya serap anggaran) untuk memperluas cakupan dan efektivitas program penanggulangan banjir, kemacetan, rehabilitasi dan pemeliharaan lingkungan hidup serta pengelolaan sampah.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Melengkapi Unit Darurat'
+        description: 'Melengkapi Unit Darurat, termasuk persalinan, di setiap Puskesmas, dengan Standar Motor Gawat Darurat (MGD), selain mobil ambulan, guna menembus jalan-jalan sempit/padat pemukiman warga.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-siaga-persalinan-darurat'
+    -
+        title: 'Mencapai 80% Ibu yang mengimplementasikan ASI Eksklusif dalam 5 tahun.'
+        description: 'Mencapai 80% Ibu yang mengimplementasikan ASI Eksklusif dalam 5 tahun.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-asi-eksklusif-untuk-memenuhi-target-nasional'
+    -
+        title: 'Mewajibkan keberadaan ruang laktasi di mal dan perkantoran'
+        description: 'Mewajibkan keberadaan ruang laktasi di mal dan perkantoran'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-asi-eksklusif-untuk-memenuhi-target-nasional'
+    -
+        title: 'Memberikan penghargaan bagi tempat kerja atau sarana umum'
+        description: 'Memberikan penghargaan bagi tempat kerja atau sarana umum yang menyediakan ruang menyusui yang nyaman agar mendorong jumlah ruang laktasi bagi karyawati yang sedang menyusui bertambah'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-percepatan-asi-eksklusif-untuk-memenuhi-target-nasional'
+    -
+        title: 'Memberikan subsidi APBD bagi rumah sakit '
+        description: 'Memberikan subsidi APBD bagi rumah sakit dan klinik swasta agar mereka dapat juga menjadi tujuan berobat yang terjangkau bagi pasien, selain puskesmas dan rumah sakit daerah.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-posyandu-posbindu-untuk-jakarta'
+    -
+        title: 'Memberi peningkatan dukungan insentif'
+        description: 'Memberi peningkatan dukungan insentif dan penghargaan bagi kader Posyandu dan Posbind'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-posyandu-posbindu-untuk-jakarta'
+    -
+        title: 'Meningkatkan frekuensi pelatihan peningkatan kompetensi'
+        description: 'Meningkatkan frekuensi pelatihan peningkatan kompetensi kader Posyandu dan Posbindu.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-posyandu-posbindu-untuk-jakarta'
+    -
+        title: 'Mengintegrasikan Posyandu ke PAUD'
+        description: 'Mengintegrasikan Posyandu ke PAUD, karena PAUD marak diikuti oleh para balita sebelum beranjak ke jenjang Taman Kanak-Kanak, sehingga lebih mudah untuk memberikan pelayanan.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-posyandu-posbindu-untuk-jakarta'
+    -
+        title: 'Menambah materi pelayanan Posyandu'
+        description: 'Menambah materi pelayanan Posyandudengan mengadakan pendidikan anak dalam kandungan dan pelatihan dasar keterampilan kesehatan anak (anak mampu melindungi dirinya dari perokok di ruang publik, melaporkan orang dewasa pelaku kekerasan, membantu teman yang tersedak makanan, menolong teman yang mengalami kecelakaan ringan, dan lainnya.)'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-posyandu-posbindu-untuk-jakarta'
+    -
+        title: 'Fasilitasi kompetisi olahraga dengen sistem musim kompetisi'
+        description: 'Fasilitasi kompetisi olahraga dengen sistem musim kompetisi berbasis komunitas dan kelompok umur (Satu musim kompetisi olahraga berlangsung selama 4 bulan per satu jenis Olahraga,Sepakbola, Bola Basket, Bola Voli dan Badminton)'
+        url: ''
+        status: Not Started
+        category: Pemuda dan Olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-olahraga-sepanjang-tahun'
+    -
+        title: 'Membuat kompetisi olaharaga untuk warga difabel di Jakarta.'
+        description: 'Membuat kompetisi olaharaga untuk warga difabel di Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan Olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-olahraga-sepanjang-tahun'
+    -
+        title: 'Memberi tunjangan penghasilan setara UMP bagi yang memenuhi syarat'
+        description: 'Memberi tunjangan penghasilan setara UMP bagi yang memenuhi syarat, untuk guru PAUD kelompok belajar, Tempat Penitipan Anak, Status PAUD Sejenis (SPS), serta Taman Pendidikan Al Quran (TPA).'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-paud-dan-taman-pendidikan-al-quran'
+    -
+        title: 'Menambah jumlah PAUD di Jakarta.'
+        description: 'Menambah jumlah PAUD di Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-paud-dan-taman-pendidikan-al-quran'
+    -
+        title: 'Memberi bantuan fasilitas belajar untuk PAUD'
+        description: 'Memberi bantuan fasilitas belajar untuk PAUD, baik formal maupun informal, termasuk Taman Pendidikan Al-Quran.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-paud-dan-taman-pendidikan-al-quran'
+    -
+        title: 'Memberi bantuan beasiswa S1 bagi guru-guru PAUD '
+        description: 'Memberi bantuan beasiswa S1 bagi guru-guru PAUD baik formal maupun nonformal DKI Jakarta'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-paud-dan-taman-pendidikan-al-quran'
+    -
+        title: 'Melarang adanya tes calistung bagi SD '
+        description: 'Melarang adanya tes calistung bagi SD dalam penerimaan calon siswa kelas 1 sehingga mengurangi beban PAUD untuk memaksa peserta didik belajar calistung dalam kurikulumnya'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-paud-dan-taman-pendidikan-al-quran'
+    -
+        title: 'Mendirikan PAUD-PAUD tempat penitipan anak '
+        description: 'Mendirikan PAUD-PAUD tempat penitipan anak (daycare) di seluruh gedung institusi pemerintah provinsi (termasuk BUMD) dan pasar-pasar tradisional, serta memberikan insentif bagi gedung perkantoran swasta untuk menyediakan TPA.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-paud-dan-taman-pendidikan-al-quran'
+    -
+        title: 'Memasukkan pembangunan stadion di tahun pertama '
+        description: 'Memasukkan pembangunan stadion di tahun pertama pemerintahan untuk dapat dijaga keberlangsungannya sampai 5 tahun masa jabatan.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/stadion-sepakbola-bersama'
+    -
+        title: 'Membangun Museum Sepakbola Jakarta '
+        description: 'Membangun Museum Sepakbola Jakarta di stadion sepakbola bersama agar menjadi objek wisata seperti di Eropa.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/stadion-sepakbola-bersama'
+    -
+        title: 'Membangun Patung-patung legenda sepakbola dari Jakarta '
+        description: 'Membangun Patung-patung legenda sepakbola dari Jakarta di depan stadion bersama sebagai apresiasi sejarah sepakbola Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/stadion-sepakbola-bersama'
+    -
+        title: 'Menyiapkan rute bus Transjakarta ke Stadion Bersama'
+        description: 'Menyiapkan rute bus Transjakarta ke Stadion Bersama. Terutama untuk pertandingan akan disediakan bus Transjakarta spesial Persija untuk mengantarkan suporter ke stadion.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/stadion-sepakbola-bersama'
+    -
+        title: 'Revitalisasi stadion lainnya yang memiliki kapasitas lebih kecil '
+        description: 'Revitalisasi stadion lainnya yang memiliki kapasitas lebih kecil di Jakarta agar bisa digunakan oleh masyarakat umum.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan Olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/stadion-sepakbola-bersama'
+    -
+        title: 'Membangun taman-taman baru di wilayah-wilayah pinggiran Jakarta'
+        description: 'Membangun taman-taman baru di wilayah-wilayah pinggiran Jakarta yang sulit mendapatkan akses pada taman-taman.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mendirikan-taman-maju-bersama'
+    -
+        title: 'Mengaktifkan taman-taman interaktif yang sudah ada'
+        description: 'Mengaktifkan taman-taman interaktif yang sudah ada, dengan cara mengaktifkan kembali komunitas-komunitas di Jakarta melalui kegiatan pengembangan kebudayaan, kesenian, olahraga, pendidikan dini dan budaya membaca.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan Olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/mendirikan-taman-maju-bersama'
+    -
+        title: 'Memberikan Kepada warga terdampak relokasi unit yang proporsional '
+        description: 'Memberikan Kepada warga terdampak relokasi unit yang proporsional dengan luas unit di hunian lama yang digusur, bukan menyamaratakan'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/keadilan-untuk-penghuni-rumah-susun'
+    -
+        title: 'Menghapus pergub denda progresif bagi penguni rusun'
+        description: 'Menghapus pergub denda progresif bagi penguni rusun'
+        url: ''
+        status: Not Started
+        category: Perumahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/keadilan-untuk-penghuni-rumah-susun'
+    -
+        title: 'Membangun Taman Benyamin Sueb s'
+        description: 'Membangun Taman Benyamin Sueb sebagai bentuk penghargaan pada Benyamin Sueb yang di dalamnya terdapat pusat pengembangan Budaya Betawi dan Museum Kebudayaan Betawi.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/membangun-taman-benyamin-sueb'
+    -
+        title: 'Merealisasikan proses penggabungan PDS HB Jassin di bawah Pemprov DKI Jakarta.'
+        description: 'Merealisasikan proses penggabungan PDS HB Jassin di bawah Pemprov DKI Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-pusat-dokumentasi-sastra-hb-jassin'
+    -
+        title: 'Mendorong keterlibatan publik dalam proses revitalisasi PDS HB Jassin'
+        description: 'Mendorong keterlibatan publik dalam proses revitalisasi PDS HB Jassin baik untuk profesionalitas pengelola maupun sarana dan prasarana.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-pusat-dokumentasi-sastra-hb-jassin'
+    -
+        title: 'Mendorong pihak swasta untuk ikut berkontribusi '
+        description: 'Mendorong pihak swasta untuk ikut berkontribusi dalam proses digitalisasi karya sastra di PDS HB Jassin.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/revitalisasi-pusat-dokumentasi-sastra-hb-jassin'
+    -
+        title: 'Menyelenggarakan kembali JIFFEST '
+        description: 'Menyelenggarakan kembali JIFFEST dengan membentuk Konsorsium Film Jakarta yang terdiri dari Pemerintah Pusat lewat Bekraf, Pemprov DKI Jakarta, pengusaha dan insan perfilman.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-kembali-jiffest-bioskop-rakyat'
+    -
+        title: 'Pemda DKI Jakarta juga mengadakan layar tancap keliling '
+        description: 'Pemda DKI Jakarta juga mengadakan layar tancap keliling untuk menghadirkan bioskop rakyat dengan memutar film-film berkualitas sehingga mampu menghadirkan hiburan-hiburan bagi masyarakat.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-kembali-jiffest-bioskop-rakyat'
+    -
+        title: 'Menyelenggarakan pesta rakyat yang berisi ajang lomba-lomba keterampilan seni dan budaya'
+        description: 'Menyelenggarakan pesta rakyat yang berisi ajang lomba-lomba keterampilan seni dan budaya di masing-masing kotamadya dan kabupaten di Jakarta, puncak pesta rakyat ini pada tanggal 22 Juni setiap tahunnya, yakni saat ulang tahun DKI Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-festival-rakyat-jakarta'
+    -
+        title: 'Memberikan kemudahan bagi siswa sekolah untuk melaksanakan pentas seni siswa'
+        description: 'Memberikan kemudahan bagi siswa sekolah untuk melaksanakan pentas seni siswa sebagai bentuk ekspresi seni dari para pemuda di Indonesia, namun harus tetap menghadirkan seni budaya tradisional Indonesia.'
+        url: ''
+        status: Not Started
+        category: Pemuda dan Olahraga
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-festival-rakyat-jakarta'
+    -
+        title: 'Memastikan tidak adanya lagi pelarangan acara seni dan budaya'
+        description: 'Memastikan tidak adanya lagi pelarangan acara seni dan budaya yang diselenggarakan masyarakat selama memenuhi syarat-syarat administratif.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/menghidupkan-festival-rakyat-jakarta'
+    -
+        title: 'Takbir keliling dijadikan festival tahunan yang dikelola dengan baik.'
+        description: 'Takbir keliling dijadikan festival tahunan yang dikelola dengan baik.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Festival Tilawatil Al Quran dan Maulid Nabi Muhammad SAW.'
+        description: 'Festival Tilawatil Al Quran dan Maulid Nabi Muhammad SAW.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Pemilihan Dai dan Daiyah serta Pildacil DKI Jakarta.'
+        description: 'Pemilihan Dai dan Daiyah serta Pildacil DKI Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Membudayakan kajian malam Jumat di setiap masjid dan mushola se-Jakarta.'
+        description: 'Membudayakan kajian malam Jumat di setiap masjid dan mushola se-Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Mempermudah perizinan kegiatan keagamaan'
+        description: 'Mempermudah perizinan kegiatan keagamaan atau festival budaya Islam dilakukan di Monas.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Sekolah atau instansi di Jakarta boleh melakukan kegiatan qurba'
+        description: 'Sekolah atau instansi di Jakarta boleh melakukan kegiatan qurban (memotong hewan qurban) dengan pengawasan dinas terkait'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Memberikan pelatihan pemotongan hewan qurban kepada siswa di Jakarta'
+        description: 'Memberikan pelatihan pemotongan hewan qurban kepada siswa di Jakarta'
+        url: ''
+        status: Not Started
+        category: Pariwisata
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/festival-budaya-islam'
+    -
+        title: 'Memberikan beasiswa dan pelatihan peningkatan kualifikasi dan kompetensi bagi perawat '
+        description: 'Memberikan beasiswa dan pelatihan peningkatan kualifikasi dan kompetensi bagi perawat PNS dan non-PNS.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-kompetensi-dan-kesejahteraan-perawat'
+    -
+        title: 'Memastikan sistem promosi dan karir perawat secara transparan dan meritokrasi.'
+        description: 'Memastikan sistem promosi dan karir perawat secara transparan dan meritokrasi.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-kompetensi-dan-kesejahteraan-perawat'
+    -
+        title: 'Mendukung eksistensi organisasi profesi perawat di DKI Jakarta'
+        description: 'Mendukung eksistensi organisasi profesi perawat di DKI Jakarta sebagai mitra, mendukung peran perawat di setiap RW.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-kompetensi-dan-kesejahteraan-perawat'
+    -
+        title: 'Memberikan Tunjangan Hari Tua kepada semua lansia di DKI Jakarta'
+        description: 'Memberikan Tunjangan Hari Tua kepada semua lansia di DKI Jakarta untuk menunjang kebutuhan hidupnya.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-khusus-lansia-tunjangan-hari-tua'
+    -
+        title: 'Memperbanyak layanan kesehatan pencegahan untuk lansia'
+        description: 'Memperbanyak layanan kesehatan pencegahan untuk lansia seperti layanan deteksi kanker gratis, di rumah sakit negeri dan swasta.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-khusus-lansia-tunjangan-hari-tua'
+    -
+        title: 'Memperbanyak ruang terbuka hijau ramah dan aman untuk lansia'
+        description: 'Memperbanyak ruang terbuka hijau ramah dan aman untuk lansia yang dapat digunakan untuk kegiatan lansia (senam lansia, dan sebagainya).'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-khusus-lansia-tunjangan-hari-tua'
+    -
+        title: 'Menyediakan trasportasi umum gratis dan publik area ramah dan aman bagi lansia'
+        description: 'Menyediakan trasportasi umum gratis dan publik area ramah dan aman bagi lansia'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/program-khusus-lansia-tunjangan-hari-tua'
+    -
+        title: 'Membuat pelatihan bagi guru-guru'
+        description: 'Membuat pelatihan bagi guru-guru untuk menambah kemampuan mengenai pendidikan inklusi'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penguatan-kesetaraan-akses-untuk-saudara-saudara-difabel'
+    -
+        title: 'Mengembangkan kerja sama dengan pihak atau lembaga lain '
+        description: 'Mengembangkan kerja sama dengan pihak atau lembaga lain dalam upaya meningkatkan kualitas pendidikan peserta didik dengan disabilitas.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penguatan-kesetaraan-akses-untuk-saudara-saudara-difabel'
+    -
+        title: 'Menyediakan beasiswa bagi anak dengan disabilitas yang mau dan mampu bersekolah'
+        description: 'Menyediakan beasiswa bagi anak dengan disabilitas yang mau dan mampu bersekolah'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penguatan-kesetaraan-akses-untuk-saudara-saudara-difabel'
+    -
+        title: 'Menyediakan beasiswa bagi anak dari penyandang disabilitas.'
+        description: 'Menyediakan beasiswa bagi anak dari penyandang disabilitas.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penguatan-kesetaraan-akses-untuk-saudara-saudara-difabel'
+    -
+        title: 'Membentuk unit layanan disabilitas '
+        description: 'Membentuk unit layanan disabilitas bagi peserta didik di sekolah dasar dan menengah'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/penguatan-kesetaraan-akses-untuk-saudara-saudara-difabel'
+    -
+        title: 'Memperluas cakupan lembaga yang menerima hibah dan bantuan sosial '
+        description: 'Memperluas cakupan lembaga yang menerima hibah dan bantuan sosial agar tidak ada keberpihakan ke kelompok tertentu.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-bantuan-sosial-untuk-masjid-dan-majelis-taklim'
+    -
+        title: 'Memberikan bantuan sosial dan dana hibah ke masjid '
+        description: 'Memberikan bantuan sosial dan dana hibah ke masjid dan majelis taklim yang membutuhkan dan mempermudah proses pengajuan serta mempercepat proses pencairan dana.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-bantuan-sosial-untuk-masjid-dan-majelis-taklim'
+    -
+        title: 'Membuat sistem pelaporan penggunaan hibah dan bantuan sosia'
+        description: 'Membuat sistem pelaporan penggunaan hibah dan bantuan sosial yang sederhana dan mudah diakses oleh warga Jakarta sehingga dapat diawasi dan transparan.'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-bantuan-sosial-untuk-masjid-dan-majelis-taklim'
+    -
+        title: 'Menggabung KJP dengan KIP '
+        description: 'Menggabung KJP dengan KIP terkait pendataan dan distribusi manfaat (tunai dan non tunai).'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-pintar-plus'
+    -
+        title: 'Meningkatkan besaran manfaat penerima KJP'
+        description: 'Meningkatkan besaran manfaat penerima KJP bagi anak yang berasal dari keluarga tidak mampu.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-pintar-plus'
+    -
+        title: 'KJP sebagai kartu elektronik diberikan kepada semua anak usia sekolah usia 6-21 tahun'
+        description: 'KJP sebagai kartu elektronik diberikan kepada semua anak usia sekolah usia 6-21 tahun, sudah sekolah maupun putus sekolah, mampu maupun tidak mampu.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-pintar-plus'
+    -
+        title: 'penyandang disabel dan yatim, mendapatkan manfaat yang disesuaikan dengan kebutuhan anak'
+        description: 'Bagi peserta didik penyandang disabel dan yatim, mendapatkan manfaat yang disesuaikan dengan kebutuhan anak.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-pintar-plus'
+    -
+        title: 'Pelaporan keuangan otomatis'
+        description: 'Pelaporan keuangan otomatis yang dapat dipantau oleh pemerintah, orang tua dan anak. Hal ini untuk menyederhanakan proses pelaporan yang selama ini membebankan anak, sekolah dan pemerintah.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-pintar-plus'
+    -
+        title: 'Memperluas fitur-fitur KJP '
+        description: 'Memperluas fitur-fitur KJP agar bisa digunakan oleh semua anak untuk mendapatkan akses diskon belanja pendidikan, gratis museum dan wahana pendidikan.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-pintar-plus'
+    -
+        title: 'Tambahan manfaat KJMU'
+        description: 'Tambahan manfaat KJMU Biaya persiapan melanjutkan pendidikan yang lebih tinggi bagi siswa SMA/SMK/MA/SMALB tingkat akhir. Terdiri dari biaya pendaftaran masuk perguruan tinggi dan biaya operasional lainnya, senilai Rp.500.000 per siswa. Bantuan ini diberikan 3 bulan sebelum masa pendidikan menengah atas berakhir.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-mahasiswa-unggul'
+    -
+        title: 'Menyusun data kebutuhan jumlah guru secara akurat'
+        description: 'Menyusun data kebutuhan jumlah guru secara akurat. Fokus pada sekolah yang memiliki guru PNS yang akan pensiun dalam lima tahun mendatang.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Guru berkualitas dari sekolah swasta diminta untuk mengajar'
+        description: 'Guru berkualitas dari sekolah swasta diminta untuk mengajar di sekolah-sekolah di wilayah tertinggal pada hari tertentu. Modelnya akan dikelola sebagai tanggung jawab sosial dari sekolah swasta yang maju dan atau dengan memberikan insentif khusus kepada guru-guru yang bertugas.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Melibatkan perusahaan untuk memuliakan guru'
+        description: 'Melibatkan perusahaan untuk memuliakan guru. Contoh: memberikan fasilitas khusus bagi guru saat berbelanja.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Melibatkan pekerja profesional untuk meningkatkan kompetensi guru'
+        description: 'Melibatkan pekerja profesional untuk meningkatkan kompetensi guru.Pemerintah akan memfasilitasi interaksi antar guru dan profesional dengan harapan guru-guru dapat secara aktif menimba ilmu para profesional. Untuk SMK, pemerintah dapat meminta pengusaha untuk mengirimkan stafnya sebagai pengajar tamu di SMK. Adanya perwakilan dunia usaha di SMK dapat meningkatkan kualitas guru dan siswa yang berujung pada meningkatnya tingkat penyerapan tenaga kerja bagi lulusan SMK.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Meningkatkan kualitas guru di Jakarta'
+        description: 'Meningkatkan kualitas guru di Jakarta. Seleksi guru akan diperkuat, baik guru PNS maupun guru honorer.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Memberikan Tunjangan Kinerja Daerah'
+        description: 'Memberikan Tunjangan Kinerja Daerah kepada guru-guru madrasah yang memenuhi syarat'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Memberikan Bantuan Operasional Pendidikan'
+        description: 'Memberikan Bantuan Operasional Pendidikan kepada madrasah-madrasah swasta/yayasan sesuai dengan ketentuan yang berlaku'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Membantu perbaikan sarana prasarana madrasah negeri atau swasta yang membutuhkan'
+        description: 'Membantu perbaikan sarana prasarana madrasah negeri atau swasta yang membutuhkan'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kebijakan-guru-jakarta'
+    -
+        title: 'Menggabungkan beberapa SMK yang jumlah muridnya sedikit '
+        description: 'Menggabungkan beberapa SMK yang jumlah muridnya sedikit ke dalam satu manajemen dengan mengadopsi model institut. Penggabungan in menjadikan pengelolaan SMK fokus pada keterampilan dan keahlian serta pembagian sumber daya (pengajar, tutor, jaringan industri, peralatan ajar dan laboratorium). Penggabungan diprioritaskan pada SMK Negeri.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-kualitas-pendidikan-kejuruan'
+    -
+        title: 'SMK 61 di Kepulauan Seribu akan diarahkan menjadi SMK unggulan'
+        description: 'SMK 61 di Kepulauan Seribu akan diarahkan menjadi SMK unggulan di bidang keahlian kelautan, perikanan, dan pariwisata nasional.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-kualitas-pendidikan-kejuruan'
+    -
+        title: 'Mendirikan sanggar kegiatan belajar (SKB)'
+        description: 'Mendirikan sanggar kegiatan belajar (SKB) dan balai latihan kerja (BLK) yang terhubung dengan fasilitas bersama di SMK terdekat di tiap-tiap kelurahan. Program ini akan terhubung dengan program penciptaan 200.000 pengusaha yang akan diluncurkan pada 2017.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/meningkatkan-kualitas-pendidikan-kejuruan'
+    -
+        title: 'Mempermudah izin dan memperbanyak pendirian TPA di Jakarta.'
+        description: 'Mempermudah izin dan memperbanyak pendirian TPA di Jakarta.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-taman-pendidikan-alquran-tpa'
+    -
+        title: 'Memberikan bantuan dan fasilitas pendukung untuk proses belajar'
+        description: 'Memberikan bantuan dan fasilitas pendukung untuk proses belajar mengajar bagi TPA yang membutuhkan'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-taman-pendidikan-alquran-tpa'
+    -
+        title: 'Meningkatkan kapasitas guru TPA '
+        description: 'Meningkatkan kapasitas guru TPA dengan memberikan beasiswa sekolah pendidikan keagamaan di dalam negeri maupun luar negeri atau pelatihan guru TPA secara rutin untuk menunjang proses belajar mengajar dan pengelolaan TPA dengan baik'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-taman-pendidikan-alquran-tpa'
+    -
+        title: 'Memberikan tunjangan kesejahteraan bagi guru TPA sesuai peraturan yang ada'
+        description: 'Memberikan tunjangan kesejahteraan bagi guru TPA sesuai peraturan yang ada'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pemberdayaan-taman-pendidikan-alquran-tpa'
+    -
+        title: 'Memperluas cakupan KJS yang ditanggung pemerintah kelas satu'
+        description: 'Memperluas cakupan KJS yang ditanggung pemerintah kelas satu kepada tokoh-tokoh agama, yaitu guru mengaji, pengajar sekolah minggu, penjaga rumah ibadah, khatib, penceramah dan seluruh pemuka agama lainnya.'
+        url: ''
+        status: Not Started
+        category: Kesehatan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/kartu-jakarta-sehat-plus ;https://www.youtube.com/watch?v=WHt0ofJc8p8'
+    -
+        title: 'Transportasi umum GRATIS '
+        description: 'Transportasi umum GRATIS untuk warga miskin, lansia, guru, PNS, anak sekolah, dan warga tidak mampu pemegang KJP dan KJS.'
+        url: ''
+        status: Not Started
+        category: Tranportasi dan Kemacetan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/transportasi-terintegrasi'
+    -
+        title: 'Menggratiskan semua biaya pembuatan sertifikat tanah wakaf '
+        description: 'Menggratiskan semua biaya pembuatan sertifikat tanah wakaf bagi tanah wakaf yang belum bersertifikat atau pemecahan setifikat tanah.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perbaikan-pelayanan-tanah-wakaf'
+    -
+        title: 'Menggratiskan semua pajak tanah wakaf yang berada di Jakarta.'
+        description: 'Menggratiskan semua pajak tanah wakaf yang berada di Jakarta.'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perbaikan-pelayanan-tanah-wakaf'
+    -
+        title: 'proses birokrasi perwakafan terintegrasi dengan Jakarta Smart City'
+        description: 'Semua bentuk edukasi dan proses birokrasi perwakafan terintegrasi dengan Jakarta Smart City'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/perbaikan-pelayanan-tanah-wakaf'
+    -
+        title: 'Memberikan Tunjangan Kinerja Daerah'
+        description: 'Memberikan Tunjangan Kinerja Daerah kepada guru-guru madrasah yang memenuhi syarat.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-kebijakan-madrasah-jakarta'
+    -
+        title: 'Memberikan Bantuan Operasional Pendidikan'
+        description: 'Memberikan Bantuan Operasional Pendidikan kepada madrasah-madrasah swasta/yayasan sesuai dengan ketentuan yang berlaku.'
+        url: ''
+        status: Not Started
+        category: Pendidikan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/janji-kerja-kebijakan-madrasah-jakarta'
+    -
+        title: 'Menyediakan permodalan syariah yang jauh dari riba.'
+        description: 'Menyediakan permodalan syariah yang jauh dari riba.'
+        url: ''
+        status: Not Started
+        category: Ekonomi
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/pengembangan-wirausaha-muslim'
+    -
+        title: 'Menutup Hotel Alexis dan tempat sejenis lainnya yang berkaitan dengan prostitusi'
+        description: 'Menutup Hotel Alexis dan tempat sejenis lainnya yang berkaitan dengan prostitusi'
+        url: ''
+        status: Not Started
+        category: Tata Ruang
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://megapolitan.kompas.com/read/2017/04/21/06393601/ahok.dituntut.1.tahun.penjara.janji.anies-sandi.tutup.alexis.hingga.anies.temui.ahok.berita.populer.dari.jakarta ; https://www.cnnindonesia.com/kursipanasdki1/20170420202432-516-209090/anies-targetkan-tutup-alexis-dan-kawan-kawannya/'
+    -
+        title: 'Mengembangkan kinerja dan tata kelola pemerintahan'
+        description: 'Mengembangkan kinerja dan tata kelola pemerintahan untuk merealisasikan rencana kerja hingga 95 persen'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Mendapatkan opini Wajar Tanpa Pengecualian dalam audit laporan keuangan,'
+        description: 'Mendapatkan opini Wajar Tanpa Pengecualian dalam audit laporan keuangan,'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Mencapai predikat 80 dalam Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)'
+        description: 'Mencapai predikat 80 dalam Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)'
+        url: ''
+        status: Not Started
+        category: Pemerintahan
+        tags: ''
+        comments: ''
+        sources:
+            - 'http://jakartamajubersama.com/reformasi-birokrasi-dan-antikorupsi'
+    -
+        title: 'Melestarikan budaya betawi '
+        description: 'Melestarikan budaya betawi "Di setiap acara nanti, kalau bisa, ada pantun-pantun (Betawi) berbahasa Inggris dan prosesi Palang Pintu, walaupun acaranya nanti bukan acara Betawi,"'
+        url: ''
+        status: Not Started
+        category: Sejarah Dan Budaya
         tags: ''
         comments: ''
         sources:
             - 'http://megapolitan.kompas.com/read/2016/10/25/15530471/sandiaga.ingin.lestarikan.budaya.betawi.dengan.memasukkan.bahasa.asing'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'Budaya'
-    -
-        title: 'Target tahun depan 200.000 pengusaha pemula akan lahir. '
-        description: 'Target tahun depan 200.000 pengusaha pemula akan lahir. Satu kecamatan satu kewirausahaan. Program pembinaan bagi siswa-siswi SMA/SMK dengan program link and match, kesempatan mereka magang. Contoh fasilitas: inkubasi, mentorship, berikan modal dan pelatihan dan kemudahan perizinan jemput bola.'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3323685/sandi-targetkan-tahun-depan-lahir-200-ribu-pengusaha-di-dki-begini-caranya'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '18 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: 'BUMD bekerja sama dengan perusahaan bukan hanya di dalam negeri tapi di luar negeri juga'
-        description: 'Sederhanakan rantai distribusi, BUMD bekerja sama dengan perusahaan bukan hanya di dalam negeri tapi di luar negeri juga'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://babel.antaranews.com/berita/44472/anies-sandiaga-gagas-lahirkan-200-ribu-pengusaha'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Ekonomi'
-    -
-        title: 'Target harga daging sapi di Jakarta pada kisaran Rp 80 ribu hingga Rp 85 ribu. dalam 18 bulan atau 1,5 tahun'
-        description: 'Target harga daging sapi di Jakarta pada kisaran Rp 80 ribu hingga Rp 85 ribu. dalam 18 bulan atau 1,5 tahun'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3325895/jika-terpilih-anies-sandiaga-janjikan-harga-daging-sapi-rp-80-ribu'
-        wilayah: 'Jakarta Pusat'
-        lokasi: 'Rusun Dakota'
-        waktu: '21 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: 'Janji menurunkan retribusi pasar'
-        description: 'Janji menurunkan retribusi pasar'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3325479/sandiaga-uno-saya-pernah-dicibir-pak-gubernur-soal-harga-daging'
-        wilayah: 'Jakarta Utara'
-        lokasi: 'Pasar Anyar Bahari, Tj Priok'
-        waktu: '20 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: 'Merenovasi pasar'
-        description: 'Merenovasi pasar'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3325051/sandiaga-blusukan-ke-pasar-cakung-kalau-terpilih-saya-rapikan'
-        wilayah: 'Jakarta Timur'
-        lokasi: 'Pasar Cakung'
-        waktu: '20 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: ' bangun pendidikan, kesehatan dan lapangan pekerjaan yang banyak'
-        description: 'Ketimpangan makin melebar di Jakarta Tidak hanya gedung, sungai, jalannya, listriknya yang dimajukan tetapi kita harus bangun pendidikan, kesehatan dan lapangan pekerjaan yang banyak'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://pilkada.liputan6.com/read/2627571/anies-baswedan-ketimpangan-makin-melebar-di-ibu-kota'
-        wilayah: 'DKI Jakarta'
-        lokasi: 'Tebet'
-        waktu: '16 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: ' Membenahi rantai distribusi'
-        description: 'Harga bahan pokok itu akan stabil dan tidak fluktuatif, apalagi menjelang lebaran Membenahi rantai distribusi Kerjasama dengan pemasok luar negeri seperti Kadin,asosiasi pelaku usaha, untuk kerjasama dengan BUMD dan BUMN agar tidak ada spekulasi Mengajak anak muda berpartisipasi dalam membuat aplikasi digital. Menggandeng pedagang di tingkat pasar hingga pusat distribusi. Harapannya tidak ada ketimpangan harga yang bisa dimainkan oleh spekulan. .'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://elshinta.com/news/83552/2016/10/18/sandiaga-paparkan-program-bahan-pokok-untuk-rakyat-kecil'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '18 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: ' Meningkatkan artistik, mengembalikan toko ke bentuk jaman dulu supaya ada sejarahnya.'
-        description: 'Menata pasar tradisional, memperbaiki cara kebersihan dan tata cara membersihkan Meningkatkan artistik, mengembalikan toko ke bentuk jaman dulu supaya ada sejarahnya.'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/24/09274031/konsep.anies.tata.kampung.kumuh.dan.pasar.tradisional.di.jakarta'
-        wilayah: ''
-        lokasi: ''
-        waktu: '23 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: 'Memutus rantai distribusi'
-        description: 'Memutus rantai distribusi Sindir Ahok duduk di belakang meja dan tidak tahu harga pasar Pedagang Pasar Bahari, Tanjung Priok meminta:Menurunkan biaya sewa kios pasar Pinjaman modal bunga rendah Merenovasi pasar tradisional Memberantas pungli Izin menempati lahan Pemprov yg tak terpakai'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/21/10022771/janji.sandiaga.uno.bagi.pedagang.pasar.ibu.kota'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'Ekonomi'
-    -
-        title: 'Memberi pelatihan tukang becak, pedagang asongan, dan pengamen'
-        description: 'Memberi pelatihan tukang becak, pedagang asongan, dan pengamen'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'https://pilkada.tempo.co/read/news/2016/10/23/348814444/anies-janji-latih-abang-becak-pedagang-asongan-dan-pengamen'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '23 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: 'Menyediakan RTH sebagai sarana berekspresi'
-        description: 'Menyediakan RTH sebagai sarana berekspresi'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://www.antaranews.com/berita/587521/janji-anies-baswedan-untuk-anak-muda'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Fasilitas'
-    -
-        title: 'Membangun Stadion Persija'
-        description: 'Membangun Stadion Persija'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://www.antaranews.com/berita/590946/sandiaga-siap-bangun-stadion-persija'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Fasilitas'
-    -
-        title: 'Tidak akan menggusur warga Rusun Dakota
-
- Merenovasi Rusun Dakota'
-        description: 'Tidak akan menggusur warga Rusun Dakota Merenovasi Rusun Dakota'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3325727/resmikan-posko-pemenangan-sandiaga-janji-renovasi-rusun-dakota'
-        wilayah: 'Jakarta Pusat'
-        lokasi: 'Rusun Dakota'
-        waktu: '20 Oct'
-        bidang: 'Gusur'
-    -
-        title: 'Sebelum penggusuran, ada dialog, dicari solusinya. '
-        description: 'Sebelum penggusuran, ada dialog, dicari solusinya. Orang gak mau pindah sebabnya tempat tujuan relokasi dari tempat mencari nafkah sehari-hari. Fasilitas kesehatan, pendidikan dan lainnya juga dianggap kurang memadai Meskipun ada yang harus dipindah tapi lakukan dengan cara yang baik'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://www.republika.co.id/berita/nasional/pilkada/16/10/18/of7y6d330-janji-anies-ke-warga-kampung-padat-penduduk-di-muara-baru'
-        wilayah: 'DKI Jakarta'
-        lokasi: 'Kampung Muara Baru'
-        waktu: '17 Oct'
-        bidang: 'Gusur'
-    -
-        title: 'Melibatkan warga untuk menata kampung'
-        description: 'Melibatkan warga untuk menata kampung Ia akan memastikan kebersihan dan kesehatan di kampung tersebut. Selain itu, juga menata pengelolaan air, baik soal air bersih maupun daerah yang berisiko dilanda banjir karena aliran sungai. Aspek lainnya yang juga diperhatikan adalah keindahan kampung. Bekerja sama dengan para seniman untuk membuat kampung kumuh menjadi kampung seni dan indah dilihat'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/24/09274031/konsep.anies.tata.kampung.kumuh.dan.pasar.tradisional.di.jakarta'
-        wilayah: 'Jakarta Utara'
-        lokasi: 'Kampung Kerapu'
-        waktu: '24 Oct'
-        bidang: 'Gusur'
-    -
-        title: 'Kredit rumah sederhana untuk orang miskin untuk bisa dimiliki.'
-        description: 'Kredit rumah sederhana untuk orang miskin untuk bisa dimiliki. Rusun bukan solusi dari perpindahan warga Jakarta atas tanah yang sering menjadi sengketa Pemerintah Provinsi (Pemprov). Menyewa tidak apa-apa, tapi masa menyewa sampai 40 tahun misalnya. Masing-masing punya kesempatan untuk memiliki hak atas rumah. Kampung-kampung ada tempat main, olahraga. Dengan begitu, anak-anak bukan hanya sehat, tetapi akan berinteraksi satu sama lain. KJP diteruskan'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/09/16214621/anies.akan.buat.skema.kredit.rumah.sederhana.untuk.rakyat.miskin.di.jakarta'
-        wilayah: 'DKI Jakarta'
-        lokasi: 'kampung magesen'
-        waktu: '9 Oct'
-        bidang: 'Gusur'
-    -
-        title: 'Kepemilikan tanah bagi yg sudah ditempati selama 35 tahun'
-        description: '- Kepemilikan tanah bagi yg sudah ditempati selama 35 tahun - KJP berjalan terus dan ditambah jumlahnya - Penyediaan lapangan kerja dengan program2 yg menyerap tenaga kerja'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'https://metro.tempo.co/read/news/2016/10/08/083810594/3-janji-anies-baswedan-kepada-warga-kampung-sekretaris'
-        wilayah: 'Jakarta Barat'
-        lokasi: 'Kampung Sekretaris, Tanjung Duren'
-        waktu: '7 Oct'
-        bidang: 'Gusur'
     -
         title: 'Membereskan Tambora dengan kampung deret'
         description: 'Membereskan Tambora dengan kampung deret'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Perumahan
         tags: ''
         comments: ''
         sources:
             - 'http://megapolitan.kompas.com/read/2016/10/22/18404351/anies.ingin.bangun.kampung.deret.untuk.tata.kawasan.tambora'
-        wilayah: 'Jakarta Barat'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Gusur'
     -
-        title: 'Membantu perjuangan warga Kampung Guji Baru mendapatkan status kepemilikan tanah.'
-        description: 'Membantu perjuangan warga Kampung Guji Baru mendapatkan status kepemilikan tanah. Menata permukiman yang dianggap kumuh dengan program khusus seperti rumah komunitas, kampung susun, kampung deret dan bedah kampung dengan mengedepankan semangat gotong royong. Masalah permukiman kumuh yang berada di atas lahan milik swasta atau badan usaha milik negara akan diselesaikan melalui negosiasi bersama dengan pemilik lahan dan gubernur sebagai perantara supaya warga tidak kehilangan haknya Membuat program khusus untuk meningkatkan perekonomian masyarakat, terutama di kampung-kampung, dan meningkatkan pembentukan usaha mikro, kecil dan menengah. Terbuka dalam menyebarluaskan informasi kepada warga kota'
+        title: 'membantu perjuangan warga Kampung Guji Baru'
+        description: 'membantu perjuangan warga Kampung Guji Baru yang ada di RT 4, RT 5, RT 6, dan RT 7, RW 2 Kelurahan Duri Kepa, Kecamatan Kebon Jeruk, mendapatkan status kepemilikan tanah.'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Tata Ruang
         tags: ''
         comments: ''
         sources:
             - 'http://www.antaranews.com/berita/588921/anies-teken-kontrak-politik-dengan-warga-guji-baru'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '7 Oct'
-        bidang: 'Gusur'
     -
-        title: 'Melegalisasi kampung-kampung yang dianggap ilegal. '
-        description: 'Melegalisasi kampung-kampung yang dianggap ilegal. Kampung-kampung yang sudah ditempati warga selama 20 tahun dan tanahnya tidak bermasalah akan di akui haknya dalam bentuk sertifikasi hak milik'
+        title: 'Melegalisasi Kampung-kampung yang sudah ditempati warga selama 20 tahun'
+        description: 'Melegalisasi Kampung-kampung yang sudah ditempati warga selama 20 tahun dan tanahnya tidak bermasalah akan di akui haknya dalam bentuk sertifikasi hak milik (Tanah Merah, Rawa Badak Selatan, Koja)'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Tata Ruang
         tags: ''
         comments: ''
         sources:
-            - 'https://www.merdeka.com/politik/4-janji-manis-anies-baswedan-buat-warga-jakarta/kasih-sertifikat-hak-milik-warga-kampung.html
-
- http://news.detik.com/berita/3311470/anies-baswedan-menyapa-warga-rawa-badak-yang-terancam-digusur'
-        wilayah: 'Jakarta Utara'
-        lokasi: 'Tanah Merah, Rawa Badak RW 9, 10, 11'
-        waktu: '2 Oct'
-        bidang: 'Gusur'
+            - 'https://www.merdeka.com/politik/4-janji-manis-anies-baswedan-buat-warga-jakarta/kasih-sertifikat-hak-milik-warga-kampung.html ; http://news.detik.com/berita/3311470/anies-baswedan-menyapa-warga-rawa-badak-yang-terancam-digusur'
     -
-        title: 'Membuat kota menjadi beradab'
-        description: 'Tak ingin hanya kota yang maju, tetapi juga bahagiakan warganya. Membuat kota menjadi beradab'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3330271/di-depan-anak-anak-yatim-anies-baswedan-kami-ingin-dki-beradab-kembali'
-        wilayah: 'Jakarta Timur'
-        lokasi: 'Duren Sawit'
-        waktu: '26 Oct'
-        bidang: 'janji'
-    -
-        title: 'KJP diteruskan
-
- Bangun taman untuk anak2'
-        description: 'KJP diteruskan Bangun taman untuk anak2'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3316611/janji-anies-ke-warga-kampung-magesen-kjp-diteruskan'
-        wilayah: 'Jakarta Selatan'
-        lokasi: 'Kampung Magesen'
-        waktu: '9 Oct'
-        bidang: 'janji/kritik'
-    -
-        title: 'Meningkatkan mutu sekolah'
-        description: 'Sekarang hanya asal anak bisa sekolah, tetapi mutu sekolah tidak. Anies ingin meningkatkan mutu sekolah'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/read/2016/09/30/150416/3310594/10/anies-soal-program-pendidikan-dki-hanya-sekadar-anak-bisa-sekolah-mutu-tidak'
-        wilayah: 'Jakarta Pusat'
-        lokasi: 'Posko ASA, Cempaka Putih'
-        waktu: '30 Sep'
-        bidang: 'janji/kritik'
-    -
-        title: 'Seniman menunjukan karya'
-        description: 'Kompetisi melukis tiang jalan layang bagi pelajar Taman-taman, trotoar, itu menjadi tempat bagi para seniman menunjukkan karya-karyanya'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/22/14334931/anies.ingin.adakan.kompetisi.melukis.tiang.penyangga.jalan.layang.bagi.pelajar'
-        wilayah: ''
-        lokasi: ''
-        waktu: '22 Oct'
-        bidang: 'Kota'
-    -
-        title: 'Jakarta aman tidak hanya mengandalkan aparat, tetapi juga seluruh masyarakat'
-        description: 'Jakarta aman tidak hanya mengandalkan aparat, tetapi juga seluruh masyarakat'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://www.antaranews.com/berita/590685/anies-dan-sandiaga-sambangi-kantor-muhammadiyah'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '17 Oct'
-        bidang: 'Kota'
-    -
-        title: 'Tempat jualan artistik'
+        title: 'Kios-kios pedagang kaki lima, undang orang seniman'
         description: 'Kios-kios pedagang kaki lima, undang orang seniman, kita gambar agar tempat-tempat mereka jualan menjadi tempat yang artistik'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Ekonomi
         tags: ''
         comments: ''
         sources:
             - 'http://megapolitan.kompas.com/read/2016/10/22/15040181/anies.sebut.pkl.bisa.dipandang.sebagai.peluang.ekspresi.seni.'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'Kota'
-    -
-        title: 'Program undian'
-        description: 'Blok G sudah ditata, tetapi ternyata malah menimbulkan masalah baru, yaitu banyak pedagang yang merasa tidak banyak pengunjung Pedagang mengeluhkan program undian yg dihentikan.'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/21/14540251/anies.blok.g.tanah.abang.sudah.ditata.tetapi.malah.menimbulkan.masalah.baru'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Biaya kesehatan'
-        description: 'Biaya kesehatan dan BPJS belum maksimal diberikan warga. Banyak yg kesulitan untuk berobat. Apabila sakit, masyarakat pun kesusahan mendapatkan pelayanan kesehatan Warga mempertanyakan transparansi biaya pencairan BPJS. Selama ini masyarakat tidak begitu paham hitung - hitungan perihal pencairan BPJS tersebut. "Nanti akan dihitung berapa jumlah idealnya. Padahal kan anggaran yang ada di DKI ini memang sangat cukup, maka dari itu harus dimaksimalkan betul - betul serta wajib dipertanggung jawabkan penggunaanya"'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://wartakota.tribunnews.com/2016/03/30/sandiaga-uno-biaya-kesehatan-untuk-warga-jakarta-tak-maksimal'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Penyerapan anggaran lebih baik'
-        description: 'Penyerapan anggaran akan lebih baik jika ada komunikasi yang baik antara legislatif dan eksekutif'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://metro.news.viva.co.id/news/read/749484-cara-sandiaga-uno-perbaiki-penyerapan-anggaran-dki-jakarta'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Perbaikan trotoar'
-        description: 'Trotoar rusak di Jl. Rasuna Said. Permasalahan: 1. Infrastruktur fisiknya. 2. Masalah penyerapan anggaran, itu juga belum optimal. Juga kualitas kerjanya. Jadi ini bukan salah Pemprov juga, tapi salah kontraktornya. Salah juga perencanaan, karena ini bongkar pasang. Itu masalah di perencanaan dan komunikasi juga'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/d-3314673/jalan-kaki-di-kuningan-sandiaga-uno-kritik-trotoar-rusak-yang-membahayakan'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Alokasi dana pendidikan'
-        description: 'DKI Jakarta mengalokasikan dana pendidikan sekitar Rp 6,48 juta per siswa dibandingkan dana Rp 484.000 per siswa yang dialokasikan Pemerintah DI Yogyakarta (2015), tetapi kualitas pendidikan Yogya lebih baik. Contohnya: Yogyakarta meraih skor 67,02 sedangkan Jakarta hanya meraih skor 62,58.'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://www.jawapos.com/read/2016/09/25/53281/anies-baswedan-kritik-ahok-soal-kualitas-pendidikan-di-jakarta'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Anies: Pernyataan Ahok Gunakan Ayat Alquran Tidak Tepat, Harus Introspeksi Diri'
-        description: 'Anies: Pernyataan Ahok Gunakan Ayat Alquran Tidak Tepat, Harus Introspeksi Diri'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3316360/anies-pernyataan-ahok-gunakan-ayat-alquran-tidak-tepat-harus-introspeksi-diri'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Audit fasilitas publik'
-        description: 'Semua fasilitas publik yang punya risiko itu harus diaudit secara reguler, kalau ada audit reguler maka potensi masalah bisa diantisipasi'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://metro.sindonews.com/read/1142127/170/ini-kata-ahok-anies-dan-agus-soal-jpo-roboh-di-pasar-minggu-1474795080'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Memberdayakan warga'
-        description: 'Tugas gubernur bukan hanya membangun kota. Bukan hanya gusur, geser, relokasi, apa pun itu namanya. Tapi juga memberdayakan warganya,'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://kriminalitas.com/dialog-dengan-warga-kapuk-muara-lagi-lagi-anies-sindir-ahok/'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Dialog dengan semua pihak'
-        description: 'Diperlukan kepemimpinan yang bisa bicara dengan semua pihak. Program pembangunan selalu ada tantangan ketika kami di Kementerian Pendidikan, pihak tidak setuju, tidak jalan, di situ pentingnya berkomunikasi, bisa berdialog, bisa meyakinkan'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/26/14280301/komentar.anies.soal.pemprov.dki.yang.batalkan.rehabilitasi.45.gedung.sekolah.'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Penyerapan anggaran '
-        description: 'Pemprov gagal soal ketimpangan, orang miskin di Jakarta penuh keputusasaan Kritik soal: Serapan anggaran rendah, keamanan kota, inflasi, dan air bersih Mengkritik hak diskresi dan potensi korupsi Partisipasi publik dalam membangun kota'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/26/09001711/anies.baswedan.tanggung.jawab.moral.dan.mencari.orang-orang.baik'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Kemiskinan bukan hanya data/statistik, tapi harus dirasakan pemimpin'
-        description: 'Kemiskinan bukan hanya data/statistik, tapi harus dirasakan pemimpin'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/22/18443321/anies.kemiskinan.itu.bukan.angka.kemiskinan.itu.rasa'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'kritik'
-    -
-        title: 'Membangun manusia jakarta'
-        description: 'Membangun Jakarta bukan hanya kota, tetapi juga manusiannya: Penyediaan lapangan kerja, menurunkan harga sembako'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3324817/anies-jika-hanya-bangun-kota-biar-gubernur-belanda-saja'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '19 Oct'
-        bidang: 'kritik'
-    -
-        title: 'Persaudaraan jakarta'
-        description: 'Seringkali warga kita ini dianggap hitungan, padahal manusia juga kan. Kita ini sepersaudaraan dan sebangsa'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3322992/ke-warga-muara-baru-anies-carikan-solusi-relokasi-13-ribu-kk'
-        wilayah: 'Jakarta Utara'
-        lokasi: 'Muara Baru RW 17'
-        waktu: '18 Oct'
-        bidang: 'kritik'
-    -
-        title: 'Ini Tempat Bersejarah, Harus Diperhatikan'
-        description: 'Ini Tempat Bersejarah, Harus Diperhatikan'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3322932/ke-masjid-luar-batang-anies-ini-tempat-bersejarah-harus-diperhatikan'
-        wilayah: 'Jakarta Utara'
-        lokasi: 'Luar Batang'
-        waktu: '17 Oct'
-        bidang: 'kritik'
-    -
-        title: 'Komunikasi lebih baik'
-        description: 'Ahok sudah baik, tapi tidak efektif. Anies ingin melanjutkan, mengoptimalkan, dan eksekusi program Ahok dengan cara komunikasi yg baik'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/read/2016/10/07/162853/3315741/10/anies-program-ahok-sudah-baik-eksekusi-yang-belum-optimal'
-        wilayah: 'Jakarta Barat'
-        lokasi: 'Kel Duri Kepa RW 2'
-        waktu: '7 Oct'
-        bidang: 'kritik'
-    -
-        title: 'Sungai Jakarta bersih dirancang dari Gubernur sebelumnya'
-        description: 'Sungai Jakarta bersih dirancang dari Gubernur sebelumnya'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/read/2016/09/30/143530/3310568/10/sungai-di-jakarta-kini-bersih-anies-itu-dirancang-gubernur-sebelumnya'
-        wilayah: ''
-        lokasi: ''
-        waktu: '30 Sep'
-        bidang: 'kritik'
-    -
-        title: 'Melahirkan puluhan ribu hafiz muda'
-        description: 'Melahirkan puluhan ribu hafiz muda'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3323353/sandiaga-saya-bermimpi-akan-lahir-10-20-ribu-hafiz-muda-di-dki'
-        wilayah: 'Jakarta Selatan'
-        lokasi: 'Pasar Minggu'
-        waktu: '18 Oct'
-        bidang: 'kritik/janji'
-    -
-        title: 'Transportasi publik murah dengan subsidi'
-        description: 'Mengurangi volume kendaraan Meningkatkan transportasi publik, bikin nyaman dan murah dengan subsidi'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'https://www.merdeka.com/politik/4-janji-manis-anies-baswedan-buat-warga-jakarta/tekan-angka-produksi-kendaraan.html'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Macet'
-    -
-        title: 'Forum santri'
-        description: 'Kontrak politik dengan Forum Santri 1. memberikan kepedulian dan perhatian yang besar terhadap santri guru dan pesantren beserta sarana prasarana, 2. menciptakan Jakarta dan warganya yang lebih manusiawi berkarakter dan beretika 3. memberikan kepedulian dan perhatian yang besar terhadap kegiatan keagamaan serta rumah ibadah 4. meningkatkan kualitas hidup warga Jakarta, tegas dalam memberantas narkoba, miras, prostitusi, kejahatan terhadap wanita dan anak 5. menghidupkan kegiatan Islam di instansi pemerintah yang saat ini dihapuskan'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3327075/terima-dukungan-forum-santri-jakarta-sandi-teken-kontrak-politik'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '22 Oct'
-        bidang: 'Miras'
-    -
-        title: 'Meningkatkan kompetensi guru'
-        description: 'Meningkatkan kompetensi guru, caranya:1. Memetakan kompetensi dan kinerja semua guru di Jakarta 2. Selanjutnya disusun program pengembangan Tidak lupa meningkatkan mutu sekolah Contoh di Kemendikbud: Program pengembangan guru pembelajar.Meningkatkan rata2 lama sekolah:1. Memastikan program sekolah kejuruan relevan dengan Jakarta, jadi siswa bisa betah di sekolah 2. Kemudian program dikembangkan dibuat lebih relevan kemudian mengajak dunia usaha utuk terlibat dalam pelatihan anak-anak di level SMA dan SMK 3. Sehingga tak ada angka putus sekolah lagi'
-        url: ''
-        status: Not started
-        category: Education
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/20/08564041/strategi.anies-sandi.tingkatkan.kompetensi.guru.dan.rata-rata.lama.siswa.sekolah'
-        wilayah: ''
-        lokasi: ''
-        waktu: '20 Oct'
-        bidang: 'Pendidikan'
-    -
-        title: 'Tingkatkan pasukan oranye'
-        description: 'Pasukan oranye akan kami tingkatkan jumlahnya dan kita tingkatkan kesejahteraannya. Berikan mereka pelatihan, kasih permodalan karena ingin mereka naik kelas dari pasukan oranye kepada pengusaha yang bisa mengelola sampah Gunakan sistem kemitraan dengan dunia usaha dan perbankan dan non perbankan untuk permasalahan permodalan'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/3314239/janji-sandiaga-modali-pasukan-oranye-hingga-buka-200-ribu-lapangan-kerja'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '5 Oct'
-        bidang: 'PPSU'
-    -
-        title: 'Mempertahankan KJP dan BPJS'
-        description: 'Mempertahankan KJP dan BPJS'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'https://twitter.com/cnniddaily/status/785366788129161216'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Pujian'
-    -
-        title: 'Harga sembako terjangkau'
-        description: 'Membuat Warga Jakarta Bahagia Harga sembako terjangkau Fasilitas Kesehatan dan Pendidikan bagus'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://metro.news.viva.co.id/news/read/832254-anies-baswedan-janji-harga-sembako-di-jakarta-tetap-stabil
-
- https://www.merdeka.com/politik/4-janji-manis-anies-baswedan-buat-warga-jakarta/buat-warga-jakarta-bahagia.html'
-        wilayah: 'Jakarta Timur'
-        lokasi: 'Duren Sawit'
-        waktu: '9 Oct'
-        bidang: 'Umum'
-    -
-        title: 'Memberi santunan dan beasiswa untuk anak Yatim'
-        description: 'Memberi santunan dan beasiswa untuk anak Yatim'
-        url: ''
-        status: Not started
-        category: First 100 Days
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://www.antaranews.com/berita/591433/sandiaga-janji-perhatikan-anak-yatim-yang-kurang-mampu'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Umum'
     -
         title: 'Meningkatkan fungsi RT/RW untuk mencegah terorisme'
         description: 'Meningkatkan fungsi RT/RW untuk mencegah terorisme'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Pemerintahan
         tags: ''
         comments: ''
         sources:
             - 'http://www.antaranews.com/berita/591430/sandiaga-fungsi-rtrw-harus-ditingkatkan-cegah-terorisme'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: ''
-        bidang: 'Umum'
     -
-        title: 'Partisipasi publik'
-        description: 'Mengundang partisipasi publik untuk mengontrol kinerja Pemprov, seperti blusukan ditemanin rakyat biasa.'
+        title: 'Pemprov DKI akan Jual Saham Anker Bir'
+        description: 'Pemprov DKI akan Jual Saham Anker Bir'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Ekonomi
         tags: ''
         comments: ''
         sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/25/15401841/anies.akan.kedepankan.partisipasi.publik.'
-        wilayah: ''
-        lokasi: ''
-        waktu: ''
-        bidang: 'Umum'
+            - 'https://www.cnnindonesia.com/kursipanasdki1/20170423153711-516-209593/tak-cuma-tutup-alexis-sandiaga-juga-akan-jual-saham-bir-dki/ ; https://ekbis.sindonews.com/read/1199812/32/jual-saham-pemprov-dki-di-anker-bir-sandi-tunjuk-konsultan-1493043614 ; http://megapolitan.kompas.com/read/2017/04/23/14480781/sandi.akan.lepas.saham.bir.milik.pemprov.dki.usai.dilantik.jadi.wagub ; https://finance.detik.com/bursa-valas/3518311/pastikan-pemprov-dki-jual-saham-anker-bir-sandi-ini-janji-kampanye'
     -
-        title: 'Membuat aplikasi Satpam untuk mendampingi wanita yang pulang malam'
-        description: 'Membuat aplikasi Satpam untuk mendampingi wanita yang pulang malam'
+        title: 'Program Cuti Ayah'
+        description: 'Program Cuti Ayah'
         url: ''
-        status: Not started
-        category: First 100 Days
+        status: Not Started
+        category: Perempuan dan Anak
         tags: ''
         comments: ''
         sources:
-            - 'http://news.detik.com/berita/3323558/sandiaga-akan-buat-aplikasi-satpam-bagi-wanita-yang-pulang-malam'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '18 Oct'
-        bidang: 'Umum'
-    -
-        title: 'UMP naik, harga barang mahal, terasa berat'
-        description: 'UMP naik, harga barang mahal, terasa berat'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://megapolitan.kompas.com/read/2016/10/28/14110231/anies.kalau.harga.barang.naik.ump.naik.tetap.terasa.berat'
-        wilayah: 'DKI Jakarta'
-        lokasi: ''
-        waktu: '28 Oct'
-        bidang: 'Ekonomi'
-    -
-        title: 'Supply tenaga kerja dan skill'
-        description: 'Masalah lapangan pekerjaan diselesaikan dari sisi dua duanya, - Dari suplai tenaga kerja disiapkan skill-nya - Dari sisi penyedia lapangan pekerjaan mereka terlibat untuk melatih tenaga kerja'
-        url: ''
-        status: Not started
-        category: Economy
-        tags: ''
-        comments: ''
-        sources:
-            - 'http://news.detik.com/berita/d-3332690/ini-gagasan-anies-sediakan-lapangan-kerja-untuk-warga-jakarta?_ga=1.217798230.1551989395.1473079699'
-        wilayah: 'Jakarta Selatan'
-        lokasi: 'Lebak Bulus'
-        waktu: '30 Oct'
-        bidang: 'Ekonomi'
+            - 'https://kumparan.com/muhamad-iqbal/dear-mom-ini-5-janji-anies-sandi-untuk-kaum-ibu-di-dki ; https://tirto.id/anies-sandi-siapkan-program-cuti-hamil-untuk-suami-cidE ; https://pilkada.tempo.co/read/news/2016/12/05/348825582/anies-baswedan-siap-berikan-cuti-melahirkan-untuk-para-suami ; https://www.merdeka.com/peristiwa/jenguk-aniessandi-anies-janjikan-cuti-pns-yang-istrinya-melahirkan.html'
+
